@@ -8,7 +8,9 @@ Race with a friend on the same PC.
 
 **[Download Mod](https://github.com/nuvsyakoetakoe/driveclub-split-screen/releases/latest/download/DRIVECLUB-Split-Screen-0.1.0-Windows-x64.zip)** · [Installation](#installation) · [Report a bug](#report-a-bug) · **[Русский](docs/README.ru.md)**
 
-[![Support on Boosty](https://img.shields.io/badge/Support-Boosty-F15F2C?style=for-the-badge)](https://boosty.to/nuvsyakoetakoe)
+<p align="center">
+  <a href="https://boosty.to/nuvsyakoetakoe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://thirteenag.github.io/img/buttons/boosty-dark.svg"><img src="https://thirteenag.github.io/img/buttons/boosty.svg" width="250" alt="Support nuvsyakoetakoe on Boosty"></picture></a>
+</p>
 
 ## Features
 
