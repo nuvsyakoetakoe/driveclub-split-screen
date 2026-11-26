@@ -1,6 +1,6 @@
 # DRIVECLUB — Split Screen Mod
 
-![DRIVECLUB Split-Screen Mod](docs/images/banner.png)
+![DRIVECLUB Split-Screen Mod](docs/images/driveclub-red-shield.png)
 
 Race with a friend on the same PC. Player 1 uses the upper half of the screen and player 2 uses the lower half. Each player chooses a car.
 

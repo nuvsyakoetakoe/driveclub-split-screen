@@ -1,6 +1,6 @@
 # DRIVECLUB — Split Screen Mod
 
-![DRIVECLUB Split-Screen Mod](images/banner.png)
+![DRIVECLUB Split-Screen Mod](images/driveclub-red-shield.png)
 
 Гоняйте вдвоём на одном компьютере. Первый игрок видит верхнюю половину экрана, второй — нижнюю. Каждый выбирает свою машину.
 
