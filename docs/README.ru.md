@@ -8,6 +8,8 @@
 
 **[Скачать мод](https://github.com/nuvsyakoetakoe/driveclub-split-screen/releases/latest/download/DRIVECLUB-Split-Screen-0.1.0-Windows-x64.zip)** · [Установка](#установка) · [Сообщить об ошибке](#сообщить-об-ошибке) · **[English](../README.md)**
 
+[Поддержать автора / сказать спасибо на Boosty](https://boosty.to/nuvsyakoetakoe)
+
 ## Возможности
 
 - Локальная гонка для двух игроков на одном экране.

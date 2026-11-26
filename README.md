@@ -2,11 +2,13 @@
 
 ![DRIVECLUB Split-Screen Mod](docs/images/driveclub-red-shield.png)
 
-Race with a friend on the same PC. Player 1 uses the upper half of the screen and player 2 uses the lower half. Each player chooses a car.
+Race with a friend on the same PC.
 
 [![Release](https://img.shields.io/github/v/release/nuvsyakoetakoe/driveclub-split-screen?label=release)](https://github.com/nuvsyakoetakoe/driveclub-split-screen/releases/latest) [![Downloads](https://img.shields.io/github/downloads/nuvsyakoetakoe/driveclub-split-screen/total)](https://github.com/nuvsyakoetakoe/driveclub-split-screen/releases) [![License](https://img.shields.io/badge/license-GPLv2-blue)](LICENSE)
 
 **[Download Mod](https://github.com/nuvsyakoetakoe/driveclub-split-screen/releases/latest/download/DRIVECLUB-Split-Screen-0.1.0-Windows-x64.zip)** · [Installation](#installation) · [Report a bug](#report-a-bug) · **[Русский](docs/README.ru.md)**
+
+[Support my work / say thanks on Boosty](https://boosty.to/nuvsyakoetakoe)
 
 ## Features
 
