@@ -24,6 +24,8 @@
 
 ## Видео
 
+### [▶ Смотреть видео на YouTube](https://www.youtube.com/watch?v=RQVw9Cz-y9Y)
+
 [![Смотреть DRIVECLUB Split Screen на YouTube](https://img.youtube.com/vi/RQVw9Cz-y9Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=RQVw9Cz-y9Y)
 
 ## Требования

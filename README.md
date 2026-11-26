@@ -24,6 +24,8 @@ Race with a friend on the same PC.
 
 ## Gameplay video
 
+### [▶ Watch the video on YouTube](https://www.youtube.com/watch?v=RQVw9Cz-y9Y)
+
 [![Watch DRIVECLUB Split Screen on YouTube](https://img.youtube.com/vi/RQVw9Cz-y9Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=RQVw9Cz-y9Y)
 
 ## Requirements
