@@ -22,6 +22,10 @@ Race with a friend on the same PC.
 - Country, track, weather and event settings through the game menus.
 - English and Russian mod interfaces.
 
+## Gameplay video
+
+[![Watch DRIVECLUB Split Screen on YouTube](https://img.youtube.com/vi/RQVw9Cz-y9Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=RQVw9Cz-y9Y)
+
 ## Requirements
 
 Windows x64, **DRIVECLUB port 0.4.2**, and an installed copy of **CUSA00003 with game update 1.28**. On a fresh installation, complete the initial setup and start a normal race once.
