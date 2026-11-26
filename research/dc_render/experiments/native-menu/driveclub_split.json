@@ -1,0 +1,11 @@
+{
+  "file_format_version": "1.2.0",
+  "layer": {
+    "name": "VK_LAYER_DC_split_screen",
+    "type": "GLOBAL",
+    "library_path": ".\\driveclub_split.dll",
+    "api_version": "1.3.0",
+    "implementation_version": "1",
+    "description": "DRIVECLUB local split-screen rendering"
+  }
+}

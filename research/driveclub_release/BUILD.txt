@@ -1,0 +1,50 @@
+DRIVECLUB Split Screen 0.1.0
+Copyright (C) 2026 nuvsyakoetakoe
+
+Building on Windows x64
+
+Extract the source archive. Run the commands below from its root in
+PowerShell. Use Python 3.13 x64, PyInstaller 6.17, Zig 0.13.0 (zig.exe on
+PATH), Vulkan-Headers 1.2.198 and an x64 Lua 5.1.5 compiler. Place the Lua
+compiler at .tools/luac51.exe. Its bytecode must use 64-bit size_t and
+double-precision numbers. The build reads matching game data from your own
+CUSA00003 installation with update 1.28. It also needs the original port
+0.4.2 launcher. The stock launcher backup created by Setup works too.
+
+1. Set these three paths to files and directories on your computer.
+
+   $assets = 'D:\Games\DRIVECLUB'
+   $launcher = 'D:\Games\DRIVECLUB\DriveClub.exe'
+   $headers = 'D:\SDK\Vulkan-Headers\include'
+
+   The assets folder contains game.ndx and gameNNN.dat. The headers folder
+   contains vulkan/vk_layer.h.
+
+2. Compile the launcher and rendering module, generate the Lua and menu
+   files, then build the installation patches.
+
+   python research/driveclub_release/build_from_source.py --assets "$assets" --stock-launcher "$launcher" --vulkan-include "$headers"
+
+3. Build the installer and assemble the distribution.
+
+   python -m pip install PyInstaller==6.17.0
+   $build = 'output/driveclub-release-010'
+   $src = 'research/driveclub_release'
+   python -m PyInstaller --onefile --windowed --noupx --name SplitScreen-Setup --paths research --distpath "$build/dist" --workpath "$build/build" --add-data "$build/payload.zip;." --add-data "$src/setup-dialog.ps1;." "$src/setup.py"
+   python research/driveclub_release/package.py
+
+The ZIP is written to publish/driveclub-split-screen/0.1.0/. The original
+port launcher source and its license are under research/upstream/.
+COPYING.txt contains the terms for the original mod code. The PNG menu
+artwork and corresponding BC7 texture inputs are in
+research/dc_render/experiments/native-menu/art/.
+
+Сборка в Windows x64
+
+Распакуйте исходники и выполняйте команды выше в PowerShell из корня
+архива. Понадобятся Python 3.13 x64, PyInstaller 6.17, Zig 0.13.0,
+Vulkan-Headers 1.2.198 и компилятор Lua 5.1.5 x64 в .tools/luac51.exe.
+В первом шаге укажите папку со своими файлами game.ndx и gameNNN.dat
+версии игры 1.28, исходный лаунчер порта 0.4.2 и каталог заголовков
+Vulkan. Можно использовать резервную копию исходного лаунчера.
+Второй шаг собирает мод, третий — установщик и релизный ZIP.

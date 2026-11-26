@@ -1,0 +1,13 @@
+.tools/
+output/
+publish/
+__pycache__/
+*.py[cod]
+*.exe
+*.dll
+*.pdb
+*.lib
+*.res
+*.dat
+*.ndx
+*.log
