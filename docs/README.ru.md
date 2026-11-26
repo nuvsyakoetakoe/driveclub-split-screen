@@ -9,6 +9,7 @@
 **[Скачать мод](https://github.com/nuvsyakoetakoe/driveclub-split-screen/releases/latest/download/DRIVECLUB-Split-Screen-0.1.0-Windows-x64.zip)** · [Установка](#установка) · [Сообщить об ошибке](#сообщить-об-ошибке) · **[English](../README.md)**
 
 <p align="center">
+  Если вам нравится мод, буду благодарен за поддержку. Спасибо!<br><br>
   <a href="https://boosty.to/nuvsyakoetakoe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://thirteenag.github.io/img/buttons/boosty-dark.svg"><img src="https://thirteenag.github.io/img/buttons/boosty.svg" width="250" alt="Поддержать nuvsyakoetakoe на Boosty"></picture></a>
 </p>
 
